@@ -1,0 +1,84 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "Samples",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "LinuxDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "UObjectPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "EpicSurvey",
+			"Enabled": false
+		},
+		{
+			"Name": "HTML5Networking",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "NullSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "GearVR",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusInput",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusLibrary",
+			"Enabled": false
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "ScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "StereoPanorama",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"IOS"
+	],
+	"EpicSampleNameHash": "3769454916"
+}
